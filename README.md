@@ -1,2 +1,4 @@
 # hello-world 
-programlamada yeniyim
+Hi Humans
+
+I'm new in programming
