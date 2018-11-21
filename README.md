@@ -1,2 +1,4 @@
-# hello-world
-readme
+# hello-world 
+Hi Humans
+
+I'm new in programming
